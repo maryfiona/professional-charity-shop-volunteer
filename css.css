@@ -1,0 +1,15 @@
+body{
+    overflow-x: hidden;
+    padding: 3em;
+
+}
+
+.box {
+    width: px;
+    height: 190px;
+    background-color:transparent;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  
