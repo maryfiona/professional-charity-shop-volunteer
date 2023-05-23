@@ -11,5 +11,14 @@ body{
     border: 1px solid #ccc;
     padding: 10px;
   }
+  table, th, td {
+  border:1px solid black;
+}
+.our{
+    padding-top: 5em;
+}
+.ourr{
+    padding-top: 4em;
+}
   
   
