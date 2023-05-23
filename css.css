@@ -33,7 +33,37 @@ body{
     position: relative; bottom: 2em; text-align: center; font-size: medium;
 }
 .aa{
-    height:3px;border-width:0;color:gray;background-color:gray ;position: relative; bottom:3em ;
+    height:3px;
+    border-width:0;
+    color:gray;
+    background-color:gray 
+    ;position: relative;
+     bottom:3em ;
+}
+.sun{
+    padding-top: 4em;
+     margin-left: 30em;
+}
+.su{
+    top: 4em; 
+    position: relative;
+     top: 3em;
+}
+.sund{
+    top: 1.2em; 
+    position:relative;
+    left: 24em;
+}
+.no{
+    top:2em;
+     position: relative;
+}
+.nora{
+    top:2em;
+     position: relative;
+}
+.nora{
+    position:relative; left: 20em;
 }
 
 
