@@ -20,5 +20,25 @@ body{
 .ourr{
     padding-top: 4em;
 }
+.ani{
+    position:relative; left:6em ; top: 5em;
+}
+.ann{
+    padding-top: 2em; position: relative; top: 63px; text-align: center; right: 1.5em;
+}
+.an{
+    color: red; position: relative; bottom: 50px; left: 4.5em; padding-top: 2em; text-align: center;
+}
+.a{
+    position: relative; bottom: 2em; text-align: center; font-size: medium;
+}
+.aa{
+    height:3px;border-width:0;color:gray;background-color:gray ;position: relative; bottom:3em ;
+}
+
+
+
+
+
   
   
