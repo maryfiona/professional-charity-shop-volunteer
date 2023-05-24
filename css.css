@@ -71,8 +71,26 @@ body{
 .sim{
     top: 8em; position: relative;
 }
+.sii{
+    top: 5.5em; position:relative;left: 24em;
+}
+.siii{
+    position:relative; left: 20em; bottom: 2em;
+}
+.suu{
+    top: 2.5em; position: relative; 
+}
+.ari{
+    position:relative;left: 24em;
+}
 
+.arii{
+ margin-left: 37em;
+}
 
+.arri{
+    position:relative; left: 20em; bottom: 2em;
+}
 
 
   
